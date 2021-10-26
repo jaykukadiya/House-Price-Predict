@@ -5,7 +5,6 @@ house <- read_excel("datahouse.xlsx")
 
 df <- data.frame(house)
 
-print (df)
 
 data(df)
 
